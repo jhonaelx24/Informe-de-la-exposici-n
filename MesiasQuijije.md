@@ -301,13 +301,3 @@ También mencionó referencias vinculadas a Requirements Engineering Journal, IE
 
 **Práctica:**  
 Mostró comandos utilizando Windows + R.
-
----
-
-## Conclusión general
-
-Las exposiciones permitieron conocer diferentes herramientas de software utilizadas en la gestión de requisitos y proyectos. Cada herramienta presentó características particulares relacionadas con la trazabilidad, documentación, validación, control de cambios y colaboración entre integrantes del equipo.
-
-Además, se evidenció que herramientas como Odoo, ZenTao, Jama Software, Redmine, ReqI, Modern Requirements y RMToo pueden apoyar distintas fases de la Ingeniería de Requisitos, aunque cada una posee ventajas y limitaciones según el tipo de proyecto, el costo, la curva de aprendizaje y el nivel de integración con otras plataformas.
-
-En conclusión, estas herramientas no reemplazan el trabajo del analista, pero sí pueden mejorar la organización, seguimiento y control de los requisitos dentro de un proyecto de software.
